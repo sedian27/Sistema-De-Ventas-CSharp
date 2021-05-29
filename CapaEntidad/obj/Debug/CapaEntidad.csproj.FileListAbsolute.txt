@@ -1,0 +1,12 @@
+D:\PRACTICAS\C#\slnEjercicio05\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\PRACTICAS\C#\slnEjercicio05\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\PRACTICAS\C#\slnEjercicio05\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+D:\PRACTICAS\C#\slnEjercicio05\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\PRACTICAS\C#\slnEjercicio05\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\PRACTICAS\C#\slnEjercicio05\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\PRACTICAS\C#\slnEjercicio06\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\PRACTICAS\C#\slnEjercicio06\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\PRACTICAS\C#\slnEjercicio06\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+D:\PRACTICAS\C#\slnEjercicio06\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\PRACTICAS\C#\slnEjercicio06\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\PRACTICAS\C#\slnEjercicio06\CapaEntidad\obj\Debug\CapaEntidad.pdb
